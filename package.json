@@ -11,8 +11,7 @@
   "main": "src/index.js",
   "dependencies": {
     "react": "^16.6.3",
-    "prop-types": "^15.6.2",
-    "react-native": "^0.58.5"
+    "prop-types": "^15.6.2"
   },
   "bundleDependecies": false,
   "deprecated": false,
